@@ -1,6 +1,6 @@
-# Contribution Guide for Planetary Science REU Scholarships Page
+# Contribution Guide for Space Research for Undergrads Page
 
-Thank you for your interest in contributing to the **Planetary Science REU Scholarships** page! This repository is dedicated to providing accurate, accessible, and up-to-date information on REU opportunities in the field of planetary science. Contributions are welcome from anyone who wants to improve the site or add new resources.
+Thank you for your interest in contributing to the **Space Research for Undergrads Page** page! This repository is dedicated to providing accurate, accessible, and up-to-date information on REU opportunities in the field of planetary science. Contributions are welcome from anyone who wants to improve the site or add new resources.
 
 ## How to Contribute
 
